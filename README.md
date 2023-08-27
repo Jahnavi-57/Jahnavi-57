@@ -2,7 +2,7 @@
 - About me:
 - I'm all new to this Software Engineering Field.
 - I'm Currently in learning level.I want to do or create something new.
-- In my freetime,I solve questions in leetcode and join contests in leetcode.
+- In my freetime,I try to get familiarize with things that are realted to this Engineering Field.
 - 📫 How to reach me ...https://github.com/Jahnavi-57
 
 <!---
