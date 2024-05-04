@@ -24,10 +24,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=Jahnavi-57&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊GitHub Stats
-<div style="display:inline-block">
-<img  height="200" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-57&show_icons=true&locale=en&theme=radical&rank_icon=github" /> 
-<img   height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-57&layout=compact&theme=dark" />
-</div>
+
+<img  height="200" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-57&show_icons=true&locale=en&theme=radical&rank_icon=github" /> <img   height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-57&layout=compact&theme=dark" />
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahnavi-57&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
