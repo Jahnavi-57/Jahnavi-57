@@ -4,7 +4,7 @@
 
 
 
-# TechStack
+# 💻TechStack
 ### Languages:
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c-programming"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v2.png" alt="javascript--v2"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
@@ -17,15 +17,17 @@
 ### Design
 <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 
-# How to reach me
+# 🔗How to reach me
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Jahnavi-57) [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/Jahnavi_5/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/m-jahanave/)
 
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jahnavi-57&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# GitHub Stats
+# 📊GitHub Stats
 <div style="display:inline-block">
 <img  height="200" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-57&show_icons=true&locale=en&theme=radical&rank_icon=github" /> 
 <img   height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-57&layout=compact&theme=dark" />
-</div>div>
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahnavi-57&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
