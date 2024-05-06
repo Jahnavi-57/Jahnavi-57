@@ -1,8 +1,18 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jahnavi-57.Jahnavi-57"/>
+</p>
+
+<div align="center">
+  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=👋Hi+There!;🤗I'm+Jahanave!!;💎I'm+a+Full+Stack+Web+Developer!!;💻2yrs+of+experience+in+coding!!;🤗like+to+learn+new+technologies🤗"/>
+  </a>
+  <br>
+</div>
+
 # About me:
   👋Hi, I'm Jahanave!<br>
   I'm Passionate about the ever-evolving world of technology.With a keen interest in full-stack development , I thrive on exploring new technologies and their potential to shape the future.
-
-
 
 # 💻TechStack
 ### Languages:
