@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=👋Hi+There!;🤗I'm+Jahanave!!;💎I'm+a+Full+Stack+Web+Developer!!;💻2yrs+of+experience+in+coding!!;🤗like+to+learn+new+technologies🤗"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Chakra Petch&weight=500&size=30&pause=1000&color=65EAF7E0&center=true&random=false&width=480&height=59&lines=%F0%9F%91%8BHi+There!!;%F0%9F%A4%97I'm+Jahanave!!;%F0%9F%92%8EI'm+a+Full+Stack+Web+Developer!!;%F0%9F%92%BB2yrs+of+experience+in+coding!!;%F0%9F%A4%97Like+to+learn+new+tech+things!%F0%9F%A4%97"/>
   </a>
   <br>
 </div>
