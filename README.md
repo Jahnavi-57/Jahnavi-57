@@ -44,7 +44,7 @@
 # 📊GitHub and Leetcode Stats
 
 <div align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-57&show_icons=true&locale=en&theme=radical&rank_icon=github" /> <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-57&layout=compact&theme=dark" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-57&show_icons=true&locale=en&theme=radical&rank_icon=github" /><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-57&layout=compact&theme=dark" />
 </div>
 <!-- LeetCode Stats -->
 <div align="center">
