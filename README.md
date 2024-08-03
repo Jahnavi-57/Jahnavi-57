@@ -11,7 +11,7 @@
 </div>
 
 # About me:
-  👋Hi, I'm Jahanave!<br>
+  👋Hi, I'm Jahnavi!<br>
   I'm Passionate about the ever-evolving world of technology.With a keen interest in full-stack development , I thrive on exploring new technologies and their potential to shape the future.
 <hr>
 
