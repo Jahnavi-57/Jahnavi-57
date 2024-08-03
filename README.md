@@ -12,7 +12,7 @@
 
 # About me:
   👋Hi, I'm Jahnavi!<br>
-  I'm Passionate about the ever-evolving world of technology.With a keen interest in full-stack development , I thrive on exploring new technologies and their potential to shape the future.
+  I'm Passionate about the ever-evolving world of technology. With a keen interest in full-stack development , I thrive on exploring new technologies and their potential to shape the future.
 <hr>
 
 # 💻TechStack
