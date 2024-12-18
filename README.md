@@ -46,10 +46,7 @@
 <div align="center">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=Jahnavi-57&show_icons=true&locale=en&theme=radical&rank_icon=github" /><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-57&layout=compact&theme=dark" />
 </div>
-<!-- LeetCode Stats -->
-<div align="center">
-    <img width="65%"src="https://leetcard.jacoblin.cool/Jahnavi_5?theme=dark&font=Laila&ext=heatmap" />
-</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jahnavi-57&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
